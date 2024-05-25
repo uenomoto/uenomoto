@@ -1,4 +1,4 @@
-<h1 align="center">初めまして！未経験からWebエンジニアを目指す上野と申します！</h1>
+<h1 align="center">Hi 👋 I'm Motoki Ueno</h1>
 
 <p align="left"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uenomoto&layout=compact&show_icons=true&theme=cobalt" />
