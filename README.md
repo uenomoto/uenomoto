@@ -1,10 +1,5 @@
 # Hi there 👋 I'm uenomoto
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-henna-beta.vercel.app/?username=uenomoto&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
 
 ## 📊 GitHub Stats
 
@@ -15,14 +10,4 @@
   </a>
 </p>
 
-## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-ebon-kappa.vercel.app/?user=uenomoto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uenomoto&color=70a5fd&style=flat-square" alt="Profile Views" />
-</p>
